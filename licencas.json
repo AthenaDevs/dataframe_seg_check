@@ -1,1 +1,14 @@
-0001
+{
+  "chave1": {
+    "max_dispositivos": 5,
+    "dispositivos_ativos": 2
+  },
+  "chave2": {
+    "max_dispositivos": 10,
+    "dispositivos_ativos": 5
+  },
+  "chave3": {
+    "max_dispositivos": 2,
+    "dispositivos_ativos": 1
+  }
+}
