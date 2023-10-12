@@ -8,7 +8,7 @@
     "dispositivos_ativos": 5
   },
   "chave3": {
-    "max_dispositivos": 2,
+    "max_dispositivos": 1,
     "dispositivos_ativos": 1
   }
 }
