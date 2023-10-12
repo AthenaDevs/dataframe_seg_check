@@ -4,8 +4,8 @@
     "dispositivos_ativos": 2
   },
   "0002": {
-    "max_dispositivos": 10,
-    "dispositivos_ativos": 5
+    "max_dispositivos": 1,
+    "dispositivos_ativos": 1
   },
   "chave3": {
     "max_dispositivos": 0,
